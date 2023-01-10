@@ -2,9 +2,24 @@
 <html>
 <head>
 <title>海洋汚染</title>
+<style>
+body {
+    background-color: white;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
 </style>
 </head>
 <body>
+<h1>海洋汚染問題<h1>
 <h2>背景</h2>
 https://tokukoki.github.io/
 <h2>水質問題</h2>
